@@ -32,3 +32,10 @@ img{
     margin-top: 20px;   
 }
 
+@media  screen and (max-width: 450px) {
+    section{
+        width: 300px;
+    }
+}
+    
+
